@@ -4,7 +4,7 @@ import Avatar from '../../assets/images/image-avatar.webp';
 function App() {
   return (
     <main className="bg-yellow flex h-screen w-screen items-center justify-center">
-      <article className="m-auto mx-6 flex max-w-[384px] flex-col gap-6 rounded-[20px] border border-black bg-white p-5 shadow-[8px_8px_0_0_black] sm:shadow-[16px_16px_0_0_black]">
+      <article className="m-auto mx-6 flex max-w-[384px] flex-col gap-6 rounded-[20px] border border-black bg-white p-5 shadow-[8px_8px_0_0_black] transition-shadow duration-300 ease-out hover:shadow-[16px_16px_0_0_black]">
         <img
           src={IllustrationArticle}
           alt="Desing illustration"
