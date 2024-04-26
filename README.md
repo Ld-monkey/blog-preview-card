@@ -1,5 +1,11 @@
 # React + Vite
 
+### 
+
+Multiple font style in tailwind :
+   * https://stackoverflow.com/questions/28279989/multiple-font-weights-one-font-face-query
+   
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
